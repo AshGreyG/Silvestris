@@ -3,5 +3,24 @@
   "tabSize": 2,
   "trashOption": "local",
   "readableLineLength": true,
-  "livePreview": false
+  "livePreview": false,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-tag",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "insert-template",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ]
 }

@@ -10,18 +10,31 @@
 
 ---
 
-- ==trumpeter== 🇬🇧:/ˈtrʌmpɪtə(r)/ 🇺🇸:/ˈtrʌmpɪtər/
-  1. (cn.) <span style="color: #83c092">a musician who plays the trumpet or ==cornet==. </span>🥁
+- #new  ==trumpeter== 1.🎺 2. 🎤📰
+  - 🇬🇧:/ˈtrʌmpɪtə(r)/ 🇺🇸:/ˈtrʌmpɪtər/
+  1. (cn.) <span style="color: #83c092">a musician who plays the trumpet or ==cornet==. </span>
       - A jazz trumpeter performed on the stage.
+      - play the <span style="color: #e67e80">trumpet</span>
+      - a jazz trumpeter
+      - lead trumpeter
+      - trumpeter in the orchestra
   2. (cn. formal) a person who announces important news.
       - He acted as a trumpeter of the new policy.
   3. (cn.) a kind of bird
 
-- ==composer== 🇬🇧:/kəmˈpəʊzə(r)/ 🇺🇸:/kəmˈpoʊzər/
+- #familiar  ==composer== 1.✒️🎼
+  - 🇬🇧:/kəmˈpəʊzə(r)/ 🇺🇸:/kəmˈpoʊzər/
   1. (cn.) <span style="color: #83c092">a person who writes music, especially as a profession; a creator of a work, especially in literature or art. </span>
       - Beethoven is one of the greatest composers in the history of classical music
+      - classical composer
+      - film composer
+      - <span style="color: #e67e80">compose</span> a melody
 
-- ==cornet== 🇬🇧 :/ˈkɔːnɪt/ 🇺🇸:/ˈkɔːrnɪt/
+- #new  ==cornet== 1. 🎺
+  - 🇬🇧:/ˈkɔːnɪt/ 🇺🇸:/ˈkɔːrnɪt/
+  1. (cn.) <span style="color: #83c092">a brass musical instrument like a small trumpet, with a softer sound, used especially in brass bands.</span>
+       - He is good at playing the cornet.
+  2. (cn.) a ==cone==-shaped ==wafer== used to hold ice - cream.
 
 ---
 

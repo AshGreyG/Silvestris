@@ -14,6 +14,20 @@
               "type": "markdown",
               "state": {
                 "file": "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "An-Ever-Changing-View"
+            }
+          },
+          {
+            "id": "4ee9996b9f244b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
                 "mode": "preview",
                 "source": true
               },
@@ -21,7 +35,8 @@
               "title": "An-Ever-Changing-View"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#new",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -156,11 +171,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "59b88615d0d31762",
+  "active": "4ee9996b9f244b38",
   "lastOpenFiles": [
-    "templates/Text-Analysis-Template.md",
+    "templates/Showup-Meaning-Template.md",
     "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
-    "templates/English-Word-Template.md",
+    "templates/Cognates-Template.md",
+    "templates/Text-Analysis-Template.md",
     "Album-Remark/Spiritual-Jazz",
     "Album-Remark",
     "C-Programming-A-Modern-Approach/terse.md",
