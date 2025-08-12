@@ -1,0 +1,4 @@
+# **{{word-name}}**
+
+- 👾 Meaning:
+  - {{meaning}}

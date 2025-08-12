@@ -21,7 +21,7 @@
   1. (cn.) <span style="color: #83c092">a person who writes music, especially as a profession; a creator of a work, especially in literature or art. </span>
       - Beethoven is one of the greatest composers in the history of classical music
 
-- ==cornet== 
+- ==cornet== 🇬🇧 :/ˈkɔːnɪt/ 🇺🇸:/ˈkɔːrnɪt/
 
 ---
 
