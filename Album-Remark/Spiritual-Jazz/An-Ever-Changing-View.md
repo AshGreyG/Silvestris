@@ -30,7 +30,7 @@
       - film composer
       - <span style="color: #e67e80">compose</span> a melody
 
-- #new  ==cornet== 1. 🎺
+- #new  ==cornet== 1. 🎺 2.🍦
   - 🇬🇧:/ˈkɔːnɪt/ 🇺🇸:/ˈkɔːrnɪt/
   1. (cn.) <span style="color: #83c092">a brass musical instrument like a small trumpet, with a softer sound, used especially in brass bands.</span>
        - He is good at playing the cornet.
