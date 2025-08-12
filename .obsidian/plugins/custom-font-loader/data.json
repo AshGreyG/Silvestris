@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "CormorantGaramond-Bold.ttf",
+  "force_mode": false,
+  "custom_css_mode": true,
+  "custom_css": ":root * {\n\t\t--font-default: CormorantGaramond-Bold;\n\t\t--default-font: CormorantGaramond-Bold;\n\t\t--font-family-editor: CormorantGaramond-Bold;\n\t\t--font-monospace-default: CormorantGaramond-Bold,\n\t\t--font-interface-override: CormorantGaramond-Bold,\n\t\t--font-text-override: CormorantGaramond-Bold,\n\t\t--font-monospace-override: CormorantGaramond-Bold,\t\n\t}\n"
+}

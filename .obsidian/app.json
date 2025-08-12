@@ -1,0 +1,7 @@
+{
+  "promptDelete": true,
+  "tabSize": 2,
+  "trashOption": "local",
+  "readableLineLength": true,
+  "livePreview": false
+}
