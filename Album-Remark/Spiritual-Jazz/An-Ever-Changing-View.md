@@ -30,11 +30,49 @@
       - film composer
       - <span style="color: #e67e80">compose</span> a melody
 
-- #new  ==cornet== 1. 🎺 2.🍦
+- #new  ==cornet== 1. 🎺 2. lower part of🍦
   - 🇬🇧:/ˈkɔːnɪt/ 🇺🇸:/ˈkɔːrnɪt/
   1. (cn.) <span style="color: #83c092">a brass musical instrument like a small trumpet, with a softer sound, used especially in brass bands.</span>
        - He is good at playing the cornet.
-  2. (cn.) a ==cone==-shaped ==wafer== used to hold ice - cream.
+       - play the cornet
+       - jazz cornet
+       - military cornet
+       - brass cornet
+  2. (cn. rare) a ==cone==-shaped ==wafer== used to hold ice cream.
+      - a cornet of ice cream
+
+- #new  ==cone== 1. shape like 🎉 / 📐 2. lower part of 🍦 3.  fruit of🌲
+  - 🇬🇧:/kəʊn/ 🇺🇸:/koʊn/
+  1. (cn.) a solid or hollow three-dimensional shape with a circular base and a single vertex.
+      - <span style="color: #e67e80">conical</span> shape
+      - right circular cone
+      - cone angle
+  2. (cn.) <span style="color: #83c092">a thin, cone-shaped biscuit or wafer for holding ice cream.</span>
+      - ice cream cone
+      - waffle cone
+      - cone cup
+  3. (cn.) the fruit of a pine tree, consisting of many woody scales grouped around a central axis.
+      - pine cone
+      - spruce cone
+      - cone scale
+
+---
+
+- #new  ==wafer== 1. a kind of 🍪 2. shape like 💿
+  - 🇬🇧:/ˈweɪfə(r)/ 🇺🇸:/ˈweɪfər/
+  1. (cn.) <span style="color: #83c092">a thin, crisp biscuit, often sweet and sandwiched with cream.</span>
+      - ice cream wafer
+      - chocolate wafer
+      - wafer biscuit
+      - a <span style="color: #e67e80">wafer-thin</span> slice of cheese
+      - She bit into the chocolate wafer and crumbs fell on her lap.
+  2. (cn.) a thin slice of semiconductor material (e.g., silicon) used in electronics.
+      - silicon wafer
+      - semiconductor wafer
+      - wafer fabrication
+      - The factory produces 12-inch silicon wafers for smartphone chips.
+
+- #new  ==landmark==
 
 ---
 
