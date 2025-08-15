@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -171,7 +171,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f13779541ce869e1",
+  "active": "4ee9996b9f244b38",
   "lastOpenFiles": [
     "templates/Showup-Meaning-Template.md",
     "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
