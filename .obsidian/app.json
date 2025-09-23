@@ -22,5 +22,7 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar"
-  ]
+  ],
+  "showLineNumber": true,
+  "useTab": false
 }

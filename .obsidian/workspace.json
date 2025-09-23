@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "c022661a29d7e603",
+    "type": "split",
+    "children": [
+      {
+        "id": "3908b5664d5ec695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6eed564f52e901c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Textbooks/C-Programming-A-Modern-Approach/New-Words.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "New-Words"
+            }
+          },
+          {
+            "id": "b4dcdc342f609f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "An-Ever-Changing-View"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f25b9ba10580d16d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6031a00c93c8fece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4598142a2810d4b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1028e28a99d9307",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#new",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85ae6a633e724d0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e438ecebe309e11c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7cbd39191b18902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c26625be6a71ae8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Textbooks/C-Programming-A-Modern-Approach/New-Words.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for New-Words"
+            }
+          },
+          {
+            "id": "fbd2dcc06bfb11b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Textbooks/C-Programming-A-Modern-Approach/New-Words.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from New-Words"
+            }
+          },
+          {
+            "id": "0fdc0cc625e2e74e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7d84fb26893c8635",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Textbooks/C-Programming-A-Modern-Approach/New-Words.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of New-Words"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d6eed564f52e901c",
+  "lastOpenFiles": [
+    "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
+    "Textbooks/C-Programming-A-Modern-Approach/New-Words.md",
+    "templates/Text-Analysis-Template.md",
+    "auto-update.sh",
+    "templates/Cognates-Template.md",
+    "Textbooks/C-Programming-A-Modern-Approach",
+    "Textbooks",
+    "templates/Showup-Meaning-Template.md"
+  ]
+}

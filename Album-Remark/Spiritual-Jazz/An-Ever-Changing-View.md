@@ -30,7 +30,7 @@
       - film composer
       - <span style="color: #e67e80">compose</span> a melody
 
-- #new  ==cornet== 1. 🎺 2. lower part of🍦
+- #new  ==cornet== 1. 🎺 2. lower part of 🍦
   - 🇬🇧:/ˈkɔːnɪt/ 🇺🇸:/ˈkɔːrnɪt/
   1. (cn.) <span style="color: #83c092">a brass musical instrument like a small trumpet, with a softer sound, used especially in brass bands.</span>
        - He is good at playing the cornet.
@@ -41,7 +41,7 @@
   2. (cn. rare) a ==cone==-shaped ==wafer== used to hold ice cream.
       - a cornet of ice cream
 
-- #new  ==cone== 1. shape like 🎉 / 📐 2. lower part of 🍦 3.  fruit of🌲
+- #new  ==cone== 1. shape like 🎉 / 📐 2. lower part of 🍦 3.  fruit of 🌲
   - 🇬🇧:/kəʊn/ 🇺🇸:/koʊn/
   1. (cn.) a solid or hollow three-dimensional shape with a circular base and a single vertex.
       - <span style="color: #e67e80">conical</span> shape
@@ -58,7 +58,7 @@
 
 ---
 
-- #new  ==wafer== 1. a kind of 🍪 2. shape like 💿
+- #new  ==wafer== 1. a kind of  🍪 2. shape like 💿
   - 🇬🇧:/ˈweɪfə(r)/ 🇺🇸:/ˈweɪfər/
   1. (cn.) <span style="color: #83c092">a thin, crisp biscuit, often sweet and sandwiched with cream.</span>
       - ice cream wafer
