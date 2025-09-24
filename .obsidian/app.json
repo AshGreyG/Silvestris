@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "tabSize": 2,
   "trashOption": "local",
   "readableLineLength": true,

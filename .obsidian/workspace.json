@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3908b5664d5ec695",
+        "id": "7beb676562df1590",
         "type": "tabs",
         "children": [
           {
-            "id": "d6eed564f52e901c",
+            "id": "c748341b0e1f90a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/C-Programming-A-Modern-Approach/New-Words.md",
+                "file": "Web3/Airdrops/Vana.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "New-Words"
-            }
-          },
-          {
-            "id": "b4dcdc342f609f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "An-Ever-Changing-View"
+              "title": "Vana"
             }
           }
         ]
@@ -88,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,10 +171,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6eed564f52e901c",
+  "active": "c748341b0e1f90a5",
   "lastOpenFiles": [
-    "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
+    "Web3/Airdrops/Vana.md",
+    "Life/Expressions.md",
+    "Web3/Airdrops",
+    "Web3",
     "Textbooks/C-Programming-A-Modern-Approach/New-Words.md",
+    "New-Words_1.png",
+    "New-Words_2.png",
+    "New-Words.zip",
+    "Album-Remark/Spiritual-Jazz/An-Ever-Changing-View.md",
     "templates/Text-Analysis-Template.md",
     "auto-update.sh",
     "templates/Cognates-Template.md",
