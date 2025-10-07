@@ -117,3 +117,17 @@
       - The soccer team's four consecutive wins have boosted their confidence for the championship match.
       - <span style="color: #e67e80">consecutiveness</span>
       - The consecutiveness of the data points helped researchers identity a clear trend.
+
+- #new ==rudimentary==
+  - 🇬🇧:/ˌruː.dɪˈmen.tər.i/ 🇺🇸:/ˌruː.dəˈmen.tər.i/
+  1. (adj.) relating to an early stage of development; basic, simple; or not fully developed; serving as a starting point
+      - rudimentary knowledge/skills
+      - rudimentary understanding
+      - He has only rudimentary knowledge of physics, enough to understand basic concepts like gravity.
+      - rudimentary living conditions
+      - rudimentary facilities
+      - The village school has only rudimentary facilities - no library or science lab.
+      - rudimentary design
+      - The prototype has a rudimentary shape, but engineers will refine it later.
+      - have a rudimentary grasp of
+      - provide rudimentary 
